@@ -1,0 +1,5 @@
+=== RELATORIO METEOROLOGICO: A (FEVEREIRO) ===
+
+Dia    | Temperatura  | Vento      | Nota 
+---------------------------------------------
+Dia 3  | 31       °C | 8      km/h | Nota: 3

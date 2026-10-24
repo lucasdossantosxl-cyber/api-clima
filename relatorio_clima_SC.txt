@@ -1,0 +1,5 @@
+=== RELATÓRIO METEOROLÓGICO: L ===
+
+Dia    | Temperatura  | Vento      | Nota 
+---------------------------------------------
+Dia 31 | 24       °C | 21     km/h | Nota: 3
